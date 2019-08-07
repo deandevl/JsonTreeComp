@@ -1,0 +1,2453 @@
+[{
+   "description" : "Cheese, caraway",
+   "group" : "Dairy and Egg Products",
+   "id" : 1008,
+   "manufacturer" : "",
+   "nutrients" : [
+      {
+         "description" : "Protein",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 25.18
+      },
+      {
+         "description" : "Total lipid (fat)",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 29.2
+      },
+      {
+         "description" : "Carbohydrate, by difference",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 3.060
+      },
+      {
+         "description" : "Ash",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 3.28
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kcal",
+         "value" : 376.0
+      },
+      {
+         "description" : "Water",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 39.28
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kJ",
+         "value" : 1573.0
+      },
+      {
+         "description" : "Fiber, total dietary",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Calcium, Ca",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 673.0
+      },
+      {
+         "description" : "Iron, Fe",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.64
+      },
+      {
+         "description" : "Magnesium, Mg",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 22.0
+      },
+      {
+         "description" : "Phosphorus, P",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 490.0
+      },
+      {
+         "description" : "Potassium, K",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 93.0
+      },
+      {
+         "description" : "Sodium, Na",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 690.0
+      },
+      {
+         "description" : "Zinc, Zn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 2.94
+      },
+      {
+         "description" : "Copper, Cu",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0240
+      },
+      {
+         "description" : "Manganese, Mn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0210
+      },
+      {
+         "description" : "Selenium, Se",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 14.5
+      },
+      {
+         "description" : "Vitamin A, IU",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 1054.0
+      },
+      {
+         "description" : "Retinol",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 262.0
+      },
+      {
+         "description" : "Vitamin A, RAE",
+         "group" : "Vitamins",
+         "units" : "mcg_RAE",
+         "value" : 271.0
+      },
+      {
+         "description" : "Vitamin C, total ascorbic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Thiamin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0310
+      },
+      {
+         "description" : "Riboflavin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.45
+      },
+      {
+         "description" : "Niacin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.18
+      },
+      {
+         "description" : "Pantothenic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.19
+      },
+      {
+         "description" : "Vitamin B-6",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0740
+      },
+      {
+         "description" : "Folate, total",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Vitamin B-12",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.27
+      },
+      {
+         "description" : "Folic acid",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Folate, food",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Folate, DFE",
+         "group" : "Vitamins",
+         "units" : "mcg_DFE",
+         "value" : 18.0
+      },
+      {
+         "description" : "Cholesterol",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 93.0
+      },
+      {
+         "description" : "Fatty acids, total saturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 18.584
+      },
+      {
+         "description" : "Fatty acids, total monounsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 8.275
+      },
+      {
+         "description" : "Fatty acids, total polyunsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.83
+      },
+      {
+         "description" : "Tryptophan",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.324
+      },
+      {
+         "description" : "Threonine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.896
+      },
+      {
+         "description" : "Isoleucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.563
+      },
+      {
+         "description" : "Leucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.412
+      },
+      {
+         "description" : "Lysine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.0950
+      },
+      {
+         "description" : "Methionine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.659
+      },
+      {
+         "description" : "Cystine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.126
+      },
+      {
+         "description" : "Phenylalanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.326
+      },
+      {
+         "description" : "Tyrosine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.216
+      },
+      {
+         "description" : "Valine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.682
+      },
+      {
+         "description" : "Arginine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.952
+      },
+      {
+         "description" : "Histidine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.884
+      },
+      {
+         "description" : "Alanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.711
+      },
+      {
+         "description" : "Aspartic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.618
+      },
+      {
+         "description" : "Glutamic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 6.16
+      },
+      {
+         "description" : "Glycine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.439
+      },
+      {
+         "description" : "Proline",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.838
+      },
+      {
+         "description" : "Serine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.472
+      },
+      {
+         "description" : "Protein",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 25.18
+      },
+      {
+         "description" : "Total lipid (fat)",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 29.2
+      },
+      {
+         "description" : "Carbohydrate, by difference",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 3.060
+      },
+      {
+         "description" : "Ash",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 3.28
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kcal",
+         "value" : 376.0
+      },
+      {
+         "description" : "Water",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 39.28
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kJ",
+         "value" : 1573.0
+      },
+      {
+         "description" : "Fiber, total dietary",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Calcium, Ca",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 673.0
+      },
+      {
+         "description" : "Iron, Fe",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.64
+      },
+      {
+         "description" : "Magnesium, Mg",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 22.0
+      },
+      {
+         "description" : "Phosphorus, P",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 490.0
+      },
+      {
+         "description" : "Potassium, K",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 93.0
+      },
+      {
+         "description" : "Sodium, Na",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 690.0
+      },
+      {
+         "description" : "Zinc, Zn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 2.94
+      },
+      {
+         "description" : "Copper, Cu",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0240
+      },
+      {
+         "description" : "Manganese, Mn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0210
+      },
+      {
+         "description" : "Selenium, Se",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 14.5
+      },
+      {
+         "description" : "Vitamin A, IU",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 1054.0
+      },
+      {
+         "description" : "Retinol",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 262.0
+      },
+      {
+         "description" : "Vitamin A, RAE",
+         "group" : "Vitamins",
+         "units" : "mcg_RAE",
+         "value" : 271.0
+      },
+      {
+         "description" : "Vitamin C, total ascorbic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Thiamin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0310
+      },
+      {
+         "description" : "Riboflavin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.45
+      },
+      {
+         "description" : "Niacin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.18
+      },
+      {
+         "description" : "Pantothenic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.19
+      },
+      {
+         "description" : "Vitamin B-6",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0740
+      },
+      {
+         "description" : "Folate, total",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Vitamin B-12",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.27
+      },
+      {
+         "description" : "Folic acid",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Folate, food",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Folate, DFE",
+         "group" : "Vitamins",
+         "units" : "mcg_DFE",
+         "value" : 18.0
+      },
+      {
+         "description" : "Tryptophan",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.324
+      },
+      {
+         "description" : "Threonine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.896
+      },
+      {
+         "description" : "Isoleucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.563
+      },
+      {
+         "description" : "Leucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.412
+      },
+      {
+         "description" : "Lysine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.0950
+      },
+      {
+         "description" : "Methionine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.659
+      },
+      {
+         "description" : "Cystine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.126
+      },
+      {
+         "description" : "Phenylalanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.326
+      },
+      {
+         "description" : "Tyrosine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.216
+      },
+      {
+         "description" : "Valine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.682
+      },
+      {
+         "description" : "Arginine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.952
+      },
+      {
+         "description" : "Histidine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.884
+      },
+      {
+         "description" : "Alanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.711
+      },
+      {
+         "description" : "Aspartic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.618
+      },
+      {
+         "description" : "Glutamic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 6.16
+      },
+      {
+         "description" : "Glycine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.439
+      },
+      {
+         "description" : "Proline",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.838
+      },
+      {
+         "description" : "Serine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.472
+      },
+      {
+         "description" : "Cholesterol",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 93.0
+      },
+      {
+         "description" : "Fatty acids, total saturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 18.584
+      },
+      {
+         "description" : "Fatty acids, total monounsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 8.275
+      },
+      {
+         "description" : "Fatty acids, total polyunsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.83
+      },
+      {
+         "description" : "Protein",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 25.18
+      },
+      {
+         "description" : "Total lipid (fat)",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 29.2
+      },
+      {
+         "description" : "Carbohydrate, by difference",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 3.060
+      },
+      {
+         "description" : "Ash",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 3.28
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kcal",
+         "value" : 376.0
+      },
+      {
+         "description" : "Water",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 39.28
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kJ",
+         "value" : 1573.0
+      },
+      {
+         "description" : "Fiber, total dietary",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Calcium, Ca",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 673.0
+      },
+      {
+         "description" : "Iron, Fe",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.64
+      },
+      {
+         "description" : "Magnesium, Mg",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 22.0
+      },
+      {
+         "description" : "Phosphorus, P",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 490.0
+      },
+      {
+         "description" : "Potassium, K",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 93.0
+      },
+      {
+         "description" : "Sodium, Na",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 690.0
+      },
+      {
+         "description" : "Zinc, Zn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 2.94
+      },
+      {
+         "description" : "Copper, Cu",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0240
+      },
+      {
+         "description" : "Manganese, Mn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0210
+      },
+      {
+         "description" : "Selenium, Se",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 14.5
+      },
+      {
+         "description" : "Vitamin A, IU",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 1054.0
+      },
+      {
+         "description" : "Retinol",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 262.0
+      },
+      {
+         "description" : "Vitamin A, RAE",
+         "group" : "Vitamins",
+         "units" : "mcg_RAE",
+         "value" : 271.0
+      },
+      {
+         "description" : "Vitamin C, total ascorbic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Thiamin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0310
+      },
+      {
+         "description" : "Riboflavin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.45
+      },
+      {
+         "description" : "Niacin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.18
+      },
+      {
+         "description" : "Pantothenic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.19
+      },
+      {
+         "description" : "Vitamin B-6",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0740
+      },
+      {
+         "description" : "Folate, total",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Vitamin B-12",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.27
+      },
+      {
+         "description" : "Folic acid",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Folate, food",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Folate, DFE",
+         "group" : "Vitamins",
+         "units" : "mcg_DFE",
+         "value" : 18.0
+      },
+      {
+         "description" : "Tryptophan",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.324
+      },
+      {
+         "description" : "Threonine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.896
+      },
+      {
+         "description" : "Isoleucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.563
+      },
+      {
+         "description" : "Leucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.412
+      },
+      {
+         "description" : "Lysine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.0950
+      },
+      {
+         "description" : "Methionine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.659
+      },
+      {
+         "description" : "Cystine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.126
+      },
+      {
+         "description" : "Phenylalanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.326
+      },
+      {
+         "description" : "Tyrosine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.216
+      },
+      {
+         "description" : "Valine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.682
+      },
+      {
+         "description" : "Arginine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.952
+      },
+      {
+         "description" : "Histidine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.884
+      },
+      {
+         "description" : "Alanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.711
+      },
+      {
+         "description" : "Aspartic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.618
+      },
+      {
+         "description" : "Glutamic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 6.16
+      },
+      {
+         "description" : "Glycine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.439
+      },
+      {
+         "description" : "Proline",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.838
+      },
+      {
+         "description" : "Serine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.472
+      },
+      {
+         "description" : "Cholesterol",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 93.0
+      },
+      {
+         "description" : "Fatty acids, total saturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 18.584
+      },
+      {
+         "description" : "Fatty acids, total monounsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 8.275
+      },
+      {
+         "description" : "Fatty acids, total polyunsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.83
+      }
+   ],
+   "portions" : [
+      {
+         "amount" : 1,
+         "grams" : 28.35,
+         "unit" : "oz"
+      }
+   ],
+   "tags" : []
+},
+{
+   "description" : "Cheese, cheddar",
+   "group" : "Dairy and Egg Products",
+   "id" : 1009,
+   "manufacturer" : "",
+   "nutrients" : [
+      {
+         "description" : "Protein",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 24.9
+      },
+      {
+         "description" : "Total lipid (fat)",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 33.14
+      },
+      {
+         "description" : "Carbohydrate, by difference",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 1.28
+      },
+      {
+         "description" : "Ash",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 3.93
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kcal",
+         "value" : 403.0
+      },
+      {
+         "description" : "Sucrose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.24
+      },
+      {
+         "description" : "Lactose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.23
+      },
+      {
+         "description" : "Maltose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.15
+      },
+      {
+         "description" : "Alcohol, ethyl",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Water",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 36.75
+      },
+      {
+         "description" : "Caffeine",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Theobromine",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kJ",
+         "value" : 1684.0
+      },
+      {
+         "description" : "Sugars, total",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.52
+      },
+      {
+         "description" : "Fiber, total dietary",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Calcium, Ca",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 721.0
+      },
+      {
+         "description" : "Iron, Fe",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.68
+      },
+      {
+         "description" : "Magnesium, Mg",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 28.0
+      },
+      {
+         "description" : "Phosphorus, P",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 512.0
+      },
+      {
+         "description" : "Potassium, K",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 98.0
+      },
+      {
+         "description" : "Sodium, Na",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 621.0
+      },
+      {
+         "description" : "Zinc, Zn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 3.11
+      },
+      {
+         "description" : "Copper, Cu",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0310
+      },
+      {
+         "description" : "Fluoride, F",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 34.9
+      },
+      {
+         "description" : "Manganese, Mn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.010
+      },
+      {
+         "description" : "Selenium, Se",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 13.9
+      },
+      {
+         "description" : "Vitamin A, IU",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 1002.0
+      },
+      {
+         "description" : "Retinol",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 258.0
+      },
+      {
+         "description" : "Vitamin A, RAE",
+         "group" : "Vitamins",
+         "units" : "mcg_RAE",
+         "value" : 265.0
+      },
+      {
+         "description" : "Carotene, beta",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 85.0
+      },
+      {
+         "description" : "Carotene, alpha",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin E (alpha-tocopherol)",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.29
+      },
+      {
+         "description" : "Vitamin D",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 24.0
+      },
+      {
+         "description" : "Vitamin D3 (cholecalciferol)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.6
+      },
+      {
+         "description" : "Vitamin D (D2 + D3)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.6
+      },
+      {
+         "description" : "Cryptoxanthin, beta",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Lycopene",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Lutein + zeaxanthin",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tocopherol, gamma",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tocopherol, delta",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin C, total ascorbic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Thiamin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0270
+      },
+      {
+         "description" : "Riboflavin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.375
+      },
+      {
+         "description" : "Niacin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.080
+      },
+      {
+         "description" : "Pantothenic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.413
+      },
+      {
+         "description" : "Vitamin B-6",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0740
+      },
+      {
+         "description" : "Folate, total",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Vitamin B-12",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.83
+      },
+      {
+         "description" : "Choline, total",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 16.5
+      },
+      {
+         "description" : "Vitamin K (phylloquinone)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 2.8
+      },
+      {
+         "description" : "Folic acid",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Folate, food",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Folate, DFE",
+         "group" : "Vitamins",
+         "units" : "mcg_DFE",
+         "value" : 18.0
+      },
+      {
+         "description" : "Betaine",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.7
+      },
+      {
+         "description" : "Vitamin E, added",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin B-12, added",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Cholesterol",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 105.0
+      },
+      {
+         "description" : "Fatty acids, total saturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 21.0920
+      },
+      {
+         "description" : "Fatty acids, total monounsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 9.391
+      },
+      {
+         "description" : "Fatty acids, total polyunsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.9419999999999999
+      },
+      {
+         "description" : "Dihydrophylloquinone",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tryptophan",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.32
+      },
+      {
+         "description" : "Threonine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.886
+      },
+      {
+         "description" : "Isoleucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.546
+      },
+      {
+         "description" : "Leucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.385
+      },
+      {
+         "description" : "Lysine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.0720
+      },
+      {
+         "description" : "Methionine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.652
+      },
+      {
+         "description" : "Cystine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.125
+      },
+      {
+         "description" : "Phenylalanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.311
+      },
+      {
+         "description" : "Tyrosine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.202
+      },
+      {
+         "description" : "Valine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.663
+      },
+      {
+         "description" : "Arginine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.9409999999999999
+      },
+      {
+         "description" : "Histidine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.874
+      },
+      {
+         "description" : "Alanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.703
+      },
+      {
+         "description" : "Aspartic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.6
+      },
+      {
+         "description" : "Glutamic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 6.0920
+      },
+      {
+         "description" : "Glycine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.429
+      },
+      {
+         "description" : "Proline",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.806
+      },
+      {
+         "description" : "Serine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.456
+      },
+      {
+         "description" : "Protein",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 24.9
+      },
+      {
+         "description" : "Total lipid (fat)",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 33.14
+      },
+      {
+         "description" : "Carbohydrate, by difference",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 1.28
+      },
+      {
+         "description" : "Ash",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 3.93
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kcal",
+         "value" : 403.0
+      },
+      {
+         "description" : "Sucrose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.24
+      },
+      {
+         "description" : "Lactose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.23
+      },
+      {
+         "description" : "Maltose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.15
+      },
+      {
+         "description" : "Alcohol, ethyl",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Water",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 36.75
+      },
+      {
+         "description" : "Caffeine",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Theobromine",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kJ",
+         "value" : 1684.0
+      },
+      {
+         "description" : "Sugars, total",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.52
+      },
+      {
+         "description" : "Fiber, total dietary",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Calcium, Ca",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 721.0
+      },
+      {
+         "description" : "Iron, Fe",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.68
+      },
+      {
+         "description" : "Magnesium, Mg",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 28.0
+      },
+      {
+         "description" : "Phosphorus, P",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 512.0
+      },
+      {
+         "description" : "Potassium, K",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 98.0
+      },
+      {
+         "description" : "Sodium, Na",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 621.0
+      },
+      {
+         "description" : "Zinc, Zn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 3.11
+      },
+      {
+         "description" : "Copper, Cu",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0310
+      },
+      {
+         "description" : "Fluoride, F",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 34.9
+      },
+      {
+         "description" : "Manganese, Mn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.010
+      },
+      {
+         "description" : "Selenium, Se",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 13.9
+      },
+      {
+         "description" : "Vitamin A, IU",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 1002.0
+      },
+      {
+         "description" : "Retinol",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 258.0
+      },
+      {
+         "description" : "Vitamin A, RAE",
+         "group" : "Vitamins",
+         "units" : "mcg_RAE",
+         "value" : 265.0
+      },
+      {
+         "description" : "Carotene, beta",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 85.0
+      },
+      {
+         "description" : "Carotene, alpha",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin E (alpha-tocopherol)",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.29
+      },
+      {
+         "description" : "Vitamin D",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 24.0
+      },
+      {
+         "description" : "Vitamin D3 (cholecalciferol)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.6
+      },
+      {
+         "description" : "Vitamin D (D2 + D3)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.6
+      },
+      {
+         "description" : "Cryptoxanthin, beta",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Lycopene",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Lutein + zeaxanthin",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tocopherol, gamma",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tocopherol, delta",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin C, total ascorbic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Thiamin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0270
+      },
+      {
+         "description" : "Riboflavin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.375
+      },
+      {
+         "description" : "Niacin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.080
+      },
+      {
+         "description" : "Pantothenic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.413
+      },
+      {
+         "description" : "Vitamin B-6",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0740
+      },
+      {
+         "description" : "Folate, total",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Vitamin B-12",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.83
+      },
+      {
+         "description" : "Choline, total",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 16.5
+      },
+      {
+         "description" : "Dihydrophylloquinone",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin K (phylloquinone)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 2.8
+      },
+      {
+         "description" : "Folic acid",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Folate, food",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Folate, DFE",
+         "group" : "Vitamins",
+         "units" : "mcg_DFE",
+         "value" : 18.0
+      },
+      {
+         "description" : "Betaine",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.7
+      },
+      {
+         "description" : "Tryptophan",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.32
+      },
+      {
+         "description" : "Threonine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.886
+      },
+      {
+         "description" : "Isoleucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.546
+      },
+      {
+         "description" : "Leucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.385
+      },
+      {
+         "description" : "Lysine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.0720
+      },
+      {
+         "description" : "Methionine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.652
+      },
+      {
+         "description" : "Cystine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.125
+      },
+      {
+         "description" : "Phenylalanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.311
+      },
+      {
+         "description" : "Tyrosine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.202
+      },
+      {
+         "description" : "Valine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.663
+      },
+      {
+         "description" : "Arginine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.9409999999999999
+      },
+      {
+         "description" : "Histidine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.874
+      },
+      {
+         "description" : "Alanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.703
+      },
+      {
+         "description" : "Aspartic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.6
+      },
+      {
+         "description" : "Glutamic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 6.0920
+      },
+      {
+         "description" : "Glycine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.429
+      },
+      {
+         "description" : "Proline",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.806
+      },
+      {
+         "description" : "Serine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.456
+      },
+      {
+         "description" : "Vitamin E, added",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin B-12, added",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Cholesterol",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 105.0
+      },
+      {
+         "description" : "Fatty acids, total saturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 21.0920
+      },
+      {
+         "description" : "Fatty acids, total monounsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 9.391
+      },
+      {
+         "description" : "Fatty acids, total polyunsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.9419999999999999
+      },
+      {
+         "description" : "Protein",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 24.9
+      },
+      {
+         "description" : "Total lipid (fat)",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 33.14
+      },
+      {
+         "description" : "Carbohydrate, by difference",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 1.28
+      },
+      {
+         "description" : "Ash",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 3.93
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kcal",
+         "value" : 403.0
+      },
+      {
+         "description" : "Sucrose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.24
+      },
+      {
+         "description" : "Lactose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.23
+      },
+      {
+         "description" : "Maltose",
+         "group" : "Sugars",
+         "units" : "g",
+         "value" : 0.15
+      },
+      {
+         "description" : "Alcohol, ethyl",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Water",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 36.75
+      },
+      {
+         "description" : "Caffeine",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Theobromine",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Energy",
+         "group" : "Energy",
+         "units" : "kJ",
+         "value" : 1684.0
+      },
+      {
+         "description" : "Sugars, total",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.52
+      },
+      {
+         "description" : "Fiber, total dietary",
+         "group" : "Composition",
+         "units" : "g",
+         "value" : 0.0
+      },
+      {
+         "description" : "Calcium, Ca",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 721.0
+      },
+      {
+         "description" : "Iron, Fe",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.68
+      },
+      {
+         "description" : "Magnesium, Mg",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 28.0
+      },
+      {
+         "description" : "Phosphorus, P",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 512.0
+      },
+      {
+         "description" : "Potassium, K",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 98.0
+      },
+      {
+         "description" : "Sodium, Na",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 621.0
+      },
+      {
+         "description" : "Zinc, Zn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 3.11
+      },
+      {
+         "description" : "Copper, Cu",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.0310
+      },
+      {
+         "description" : "Fluoride, F",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 34.9
+      },
+      {
+         "description" : "Manganese, Mn",
+         "group" : "Elements",
+         "units" : "mg",
+         "value" : 0.010
+      },
+      {
+         "description" : "Selenium, Se",
+         "group" : "Elements",
+         "units" : "mcg",
+         "value" : 13.9
+      },
+      {
+         "description" : "Vitamin A, IU",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 1002.0
+      },
+      {
+         "description" : "Retinol",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 258.0
+      },
+      {
+         "description" : "Vitamin A, RAE",
+         "group" : "Vitamins",
+         "units" : "mcg_RAE",
+         "value" : 265.0
+      },
+      {
+         "description" : "Carotene, beta",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 85.0
+      },
+      {
+         "description" : "Carotene, alpha",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin E (alpha-tocopherol)",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.29
+      },
+      {
+         "description" : "Vitamin D",
+         "group" : "Vitamins",
+         "units" : "IU",
+         "value" : 24.0
+      },
+      {
+         "description" : "Vitamin D3 (cholecalciferol)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.6
+      },
+      {
+         "description" : "Vitamin D (D2 + D3)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.6
+      },
+      {
+         "description" : "Cryptoxanthin, beta",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Lycopene",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Lutein + zeaxanthin",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tocopherol, gamma",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Tocopherol, delta",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin C, total ascorbic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Thiamin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0270
+      },
+      {
+         "description" : "Riboflavin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.375
+      },
+      {
+         "description" : "Niacin",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.080
+      },
+      {
+         "description" : "Pantothenic acid",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.413
+      },
+      {
+         "description" : "Vitamin B-6",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0740
+      },
+      {
+         "description" : "Folate, total",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Vitamin B-12",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.83
+      },
+      {
+         "description" : "Choline, total",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 16.5
+      },
+      {
+         "description" : "Dihydrophylloquinone",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin K (phylloquinone)",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 2.8
+      },
+      {
+         "description" : "Folic acid",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Folate, food",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 18.0
+      },
+      {
+         "description" : "Folate, DFE",
+         "group" : "Vitamins",
+         "units" : "mcg_DFE",
+         "value" : 18.0
+      },
+      {
+         "description" : "Betaine",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.7
+      },
+      {
+         "description" : "Tryptophan",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.32
+      },
+      {
+         "description" : "Threonine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.886
+      },
+      {
+         "description" : "Isoleucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.546
+      },
+      {
+         "description" : "Leucine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.385
+      },
+      {
+         "description" : "Lysine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.0720
+      },
+      {
+         "description" : "Methionine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.652
+      },
+      {
+         "description" : "Cystine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.125
+      },
+      {
+         "description" : "Phenylalanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.311
+      },
+      {
+         "description" : "Tyrosine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.202
+      },
+      {
+         "description" : "Valine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.663
+      },
+      {
+         "description" : "Arginine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.9409999999999999
+      },
+      {
+         "description" : "Histidine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.874
+      },
+      {
+         "description" : "Alanine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.703
+      },
+      {
+         "description" : "Aspartic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.6
+      },
+      {
+         "description" : "Glutamic acid",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 6.0920
+      },
+      {
+         "description" : "Glycine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 0.429
+      },
+      {
+         "description" : "Proline",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 2.806
+      },
+      {
+         "description" : "Serine",
+         "group" : "Amino Acids",
+         "units" : "g",
+         "value" : 1.456
+      },
+      {
+         "description" : "Vitamin E, added",
+         "group" : "Vitamins",
+         "units" : "mg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Vitamin B-12, added",
+         "group" : "Vitamins",
+         "units" : "mcg",
+         "value" : 0.0
+      },
+      {
+         "description" : "Cholesterol",
+         "group" : "Other",
+         "units" : "mg",
+         "value" : 105.0
+      },
+      {
+         "description" : "Fatty acids, total saturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 21.0920
+      },
+      {
+         "description" : "Fatty acids, total monounsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 9.391
+      },
+      {
+         "description" : "Fatty acids, total polyunsaturated",
+         "group" : "Other",
+         "units" : "g",
+         "value" : 0.9419999999999999
+      }
+   ],
+   "portions" : [
+      {
+         "amount" : 1,
+         "grams" : 132.0,
+         "unit" : "cup, diced"
+      },
+      {
+         "amount" : 2,
+         "grams" : 244.0,
+         "unit" : "cup, melted"
+      },
+      {
+         "amount" : 3,
+         "grams" : 113.0,
+         "unit" : "cup, shredded"
+      },
+      {
+         "amount" : 4,
+         "grams" : 28.35,
+         "unit" : "oz"
+      },
+      {
+         "amount" : 5,
+         "grams" : 17.0,
+         "unit" : "cubic inch"
+      },
+      {
+         "amount" : 6,
+         "grams" : 28.0,
+         "unit" : "slice (1 oz)"
+      }
+   ],
+   "tags" : []
+}
+]
+

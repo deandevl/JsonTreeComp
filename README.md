@@ -2,7 +2,7 @@
 
 **json-tree-comp** is a Vue.js (>= 2.5) web component that displays a JSON formatted object as a hierarchical tree.  
 
-**json-tree-comp** depends on the [vue.js](https://vuejs.org/ "Vue.js") framework.  The dependency can be installed via [npm install](https://docs.npmjs.com/cli/install.html "npm install") with the included `package.json` file. Three [webpack](https://webpack.js.org/concepts/) npm scripts are included for building  development, production, or hot recompile/execute of the demo.   `build-dev` and `build-prod` scripts produce  a `dist` folder containing the `index.html`.  The size of the `main.js` bundle using `build-prod` is 11 KiB along with calling a CDN for incorporating the Vue framework.
+**json-tree-comp** can be installed via with the included `package.json` file for a local installation via the [npm install](https://docs.npmjs.com/cli/install.html "npm install") command.  **json-tree-comp** depends on the [vue.js](https://vuejs.org/ "Vue.js") framework.  A demo folder is provided that used [Parcel](https://parceljs.org/) together with its associated `package.json` file to bundle together  **json-tree-comp** along with its [vue.js](https://vuejs.org/ "Vue.js") dependency for a simple application.  Further details are provided below for running the demo.
 
 ## Props
 
@@ -44,7 +44,7 @@ There are no events.
 
 Two demonstrations of **json-tree-comp** are provided in the folders named `demo_1` and `demo_2` and can be viewed by hosting the `index.html` files in the `dist` folders.  The demo's views were templated in the `App.vue` files.
 
-As a suggestion, install [http-server](https://www.npmjs.com/package/http-server "http-server") globally via [npm](https://www.npmjs.com/ "npm") then enter the command `http-server`in the **json-tree-comp** `dist` directory.  From a browser enter the url: `localhost:8080/` to view the demo.
+As a suggestion, install [http-server](https://www.npmjs.com/package/http-server "http-server") locally/globally via [npm](https://www.npmjs.com/ "npm") then enter the command `http-server`in the **json-tree-comp** `dist` directory.  From a browser enter the url: `localhost:8080/` to view the demo.
 
 Here is some example code for using **json-tree-comp** taken from its `App.vue` file:
 
